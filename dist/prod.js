@@ -1,0 +1,1 @@
+-1!==window.location.href.indexOf("production-domain.com")&&console.log("LOGs",1);

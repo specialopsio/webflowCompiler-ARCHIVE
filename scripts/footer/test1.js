@@ -1,0 +1,1 @@
+const log_2 = "loggggg"
